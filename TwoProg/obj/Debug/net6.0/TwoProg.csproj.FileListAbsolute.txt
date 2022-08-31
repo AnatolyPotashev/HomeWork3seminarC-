@@ -1,0 +1,15 @@
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\bin\Debug\net6.0\TwoProg.exe
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\bin\Debug\net6.0\TwoProg.deps.json
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\bin\Debug\net6.0\TwoProg.runtimeconfig.json
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\bin\Debug\net6.0\TwoProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\bin\Debug\net6.0\TwoProg.pdb
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.csproj.AssemblyReference.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.AssemblyInfoInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.AssemblyInfo.cs
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.csproj.CoreCompileInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\refint\TwoProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.pdb
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\TwoProg.genruntimeconfig.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\TwoProg\obj\Debug\net6.0\ref\TwoProg.dll
