@@ -1,0 +1,15 @@
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\bin\Debug\net6.0\OneProg.exe
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\bin\Debug\net6.0\OneProg.deps.json
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\bin\Debug\net6.0\OneProg.runtimeconfig.json
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\bin\Debug\net6.0\OneProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\bin\Debug\net6.0\OneProg.pdb
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.csproj.AssemblyReference.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.AssemblyInfoInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.AssemblyInfo.cs
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.csproj.CoreCompileInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\refint\OneProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.pdb
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\OneProg.genruntimeconfig.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\OneProg\obj\Debug\net6.0\ref\OneProg.dll
