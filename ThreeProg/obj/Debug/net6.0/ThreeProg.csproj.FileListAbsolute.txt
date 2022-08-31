@@ -1,0 +1,15 @@
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\bin\Debug\net6.0\ThreeProg.exe
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\bin\Debug\net6.0\ThreeProg.deps.json
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\bin\Debug\net6.0\ThreeProg.runtimeconfig.json
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\bin\Debug\net6.0\ThreeProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\bin\Debug\net6.0\ThreeProg.pdb
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.csproj.AssemblyReference.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.AssemblyInfoInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.AssemblyInfo.cs
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.csproj.CoreCompileInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\refint\ThreeProg.dll
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.pdb
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ThreeProg.genruntimeconfig.cache
+C:\Users\upman\OneDrive\Рабочий стол\HW3_c#\ThreeProg\obj\Debug\net6.0\ref\ThreeProg.dll
